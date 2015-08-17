@@ -5,7 +5,7 @@ src:url("../fonts/NanumBarunGothic.eot");
 src:local("☺"),url("../fonts/NanumBarunGothic.woff") format("woff");
 }
 a:hover { text-decoration: none;}      
-body {font-family: "NanumBarunGothic",  sans-serif; padding-top: 90px; }  
+body {font-family: "Helvetica Neue", Helvetica, Microsoft Yahei, Hiragino Sans GB, WenQuanYi Micro Hei, sans-serif }  
 .container-fluid { padding: 0;}
 /* nav bar customize */
 .navbar{ background-color: #fff; border: none; padding-bottom: 10px;  font-family: 'Source Sans Pro', sans-serif; font-weight: 300; font-size: 18px;height: 90px; text-transform: capitalize; border-bottom: 1px solid #AAAAAA}
